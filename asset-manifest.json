@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/nonfiction.co.kr/static/css/main.1fb4df72.css",
+    "main.js": "/nonfiction.co.kr/static/js/main.65affcd5.js",
+    "static/media/story2.jpg": "/nonfiction.co.kr/static/media/story2.b9613139c1eb7f97f77e.jpg",
+    "static/media/story3.jpg": "/nonfiction.co.kr/static/media/story3.d2c7eece7fde793755da.jpg",
+    "static/media/story1.jpg": "/nonfiction.co.kr/static/media/story1.e6b3597fe4b2f04d0ac8.jpg",
+    "static/media/story4.jpg": "/nonfiction.co.kr/static/media/story4.2ec96c4f156cc304ed45.jpg",
+    "static/media/main_img.webp": "/nonfiction.co.kr/static/media/main_img.9f45941ec0157be6202d.webp",
+    "static/media/forget_purfume.jpg": "/nonfiction.co.kr/static/media/forget_purfume.8182fa761bc35fb2cb2e.jpg",
+    "static/media/forget_bg.jpg": "/nonfiction.co.kr/static/media/forget_bg.2584b51dabd34f98e9b1.jpg",
+    "static/media/gentle_bg.jpg": "/nonfiction.co.kr/static/media/gentle_bg.7755d71cc298301ba11d.jpg",
+    "static/media/santal_bg.jpg": "/nonfiction.co.kr/static/media/santal_bg.94f07c3a6fea1102407a.jpg",
+    "static/media/gaiac_perfume.jpg": "/nonfiction.co.kr/static/media/gaiac_perfume.6aa6a0615e19157ea004.jpg",
+    "static/media/gaiac_bg.jpg": "/nonfiction.co.kr/static/media/gaiac_bg.b769e184ac62f5a6a276.jpg",
+    "static/media/gentle_perfume.jpg": "/nonfiction.co.kr/static/media/gentle_perfume.32f435ce69f7927f1234.jpg",
+    "static/media/santal_perfume.jpeg": "/nonfiction.co.kr/static/media/santal_perfume.64cae5c6c1db5b9f37df.jpeg",
+    "static/media/santal_hand.jpg": "/nonfiction.co.kr/static/media/santal_hand.ef968874c3b3107765f9.jpg",
+    "static/media/gentle_hand.jpg": "/nonfiction.co.kr/static/media/gentle_hand.55434c1b8dfc1070bc3f.jpg",
+    "static/media/gaiac_hand.jpg": "/nonfiction.co.kr/static/media/gaiac_hand.36e6ecef8d43d5da1769.jpg",
+    "static/media/santal_handwash.jpg": "/nonfiction.co.kr/static/media/santal_handwash.02d8ce10a12037b710a7.jpg",
+    "static/media/santal_bodywash.jpg": "/nonfiction.co.kr/static/media/santal_bodywash.fe977d4d4856402739d5.jpg",
+    "static/media/forget_bodywash.jpg": "/nonfiction.co.kr/static/media/forget_bodywash.e55085af0a21245b8cf8.jpg",
+    "static/media/santal_bodylotion.jpg": "/nonfiction.co.kr/static/media/santal_bodylotion.a71e53a9a2b7420197a5.jpg",
+    "static/media/forget_bodylotion.jpg": "/nonfiction.co.kr/static/media/forget_bodylotion.9c83072ed2c56ec1c701.jpg",
+    "static/media/bodywash_bg.jpg": "/nonfiction.co.kr/static/media/bodywash_bg.226c5d5b40b79b60a15d.jpg",
+    "static/media/handwash_bg.jpg": "/nonfiction.co.kr/static/media/handwash_bg.9dde018d2fabddcc5883.jpg",
+    "static/media/hand_bg.jpg": "/nonfiction.co.kr/static/media/hand_bg.951c8ed6689552d7232c.jpg",
+    "static/media/bodylotion_bg.jpg": "/nonfiction.co.kr/static/media/bodylotion_bg.68610f89027322df7bef.jpg",
+    "index.html": "/nonfiction.co.kr/index.html",
+    "main.1fb4df72.css.map": "/nonfiction.co.kr/static/css/main.1fb4df72.css.map",
+    "main.65affcd5.js.map": "/nonfiction.co.kr/static/js/main.65affcd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fb4df72.css",
+    "static/js/main.65affcd5.js"
+  ]
+}
