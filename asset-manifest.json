@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nonfiction.co.kr/static/css/main.1fb4df72.css",
-    "main.js": "/nonfiction.co.kr/static/js/main.65affcd5.js",
+    "main.css": "/nonfiction.co.kr/static/css/main.e299a5bd.css",
+    "main.js": "/nonfiction.co.kr/static/js/main.5bfa63d2.js",
     "static/media/story2.jpg": "/nonfiction.co.kr/static/media/story2.b9613139c1eb7f97f77e.jpg",
     "static/media/story3.jpg": "/nonfiction.co.kr/static/media/story3.d2c7eece7fde793755da.jpg",
     "static/media/story1.jpg": "/nonfiction.co.kr/static/media/story1.e6b3597fe4b2f04d0ac8.jpg",
@@ -28,11 +28,11 @@
     "static/media/hand_bg.jpg": "/nonfiction.co.kr/static/media/hand_bg.951c8ed6689552d7232c.jpg",
     "static/media/bodylotion_bg.jpg": "/nonfiction.co.kr/static/media/bodylotion_bg.68610f89027322df7bef.jpg",
     "index.html": "/nonfiction.co.kr/index.html",
-    "main.1fb4df72.css.map": "/nonfiction.co.kr/static/css/main.1fb4df72.css.map",
-    "main.65affcd5.js.map": "/nonfiction.co.kr/static/js/main.65affcd5.js.map"
+    "main.e299a5bd.css.map": "/nonfiction.co.kr/static/css/main.e299a5bd.css.map",
+    "main.5bfa63d2.js.map": "/nonfiction.co.kr/static/js/main.5bfa63d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fb4df72.css",
-    "static/js/main.65affcd5.js"
+    "static/css/main.e299a5bd.css",
+    "static/js/main.5bfa63d2.js"
   ]
 }
